@@ -32,4 +32,4 @@ Miki: We needs some rules, but I would like to keep it short.
 
 
 ## Contributors
-- [Miki Szeles](https://twitter.com/mszels)
+- [Miki Szeles](https://twitter.com/mszeles)
