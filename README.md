@@ -1,4 +1,4 @@
-# The Humanity Project AKA The Big Humanisch Intelligence Simulation
+# The Humanity Project AKA The Big Humanisch Intelligence Simulation - 48 hours after the <s>Creation</s>Big Bang
 
 ## Rules of contribution
 Miki: We needs some rules, but I would like to keep it short.
